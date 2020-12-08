@@ -9,6 +9,7 @@ Projects, resources, and tutorials that take code-server to the next level. Look
 ## Extending 🚀
 - [OOTB code-server: Simplified HTTPS, Auth, and Deallocation](https://github.com/nullpo-head/Out-of-the-Box-CodeServer)
 - [VS Code Sandbox on Google Colab / Kaggle Notebooks / Anywhere](https://github.com/cdr/code-server/discussions/2084)
+- [vscode-live: Multi-user pair programming with code-server)[https://github.com/coderpair/vscode-live)
 - [iPad and Code-Server in Kubernetes Workflow](https://brownfield.dev/post/2020-07-11-ipad-code-server-workflow/)
 - [home-assistant.io + code-server](https://github.com/hassio-addons/addon-vscode)
 - [Pomerium Proxy/SSO + code-server](https://www.pomerium.io/guides/vs-code-server.html#background)
