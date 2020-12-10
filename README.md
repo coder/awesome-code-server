@@ -18,3 +18,7 @@ Projects, resources, and tutorials that take code-server to the next level. Look
 - Github: [Issues](https://github.com/cdr/code-server/issues) / [Discussions](https://github.com/cdr/code-server/discussions)
 - [Slack Community](https://cdr.co/join-community)
 - Twitter: [@CoderHQ](https://twitter.com/CoderHQ/follow)
+
+## Images ☁️
+- [expo-code-server (React Native)](https://github.com/bcdr-demos/expo-code-server)
+- [Docker Compose (/ Amazon ECS) example](https://github.com/bcdr-demos/code-server-ecs/)
