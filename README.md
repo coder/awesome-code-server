@@ -5,6 +5,7 @@ Projects, resources, and tutorials that take code-server to the next level. Look
 - [code-server on Raspberry Pi fast install script](https://holisticsecurity.io/2020/08/05/a-cloud-ide-for-the-masses)
 - [code-server on WSL tutorial](https://fearthecowboy.com/tutorial/2020/09/17/Code-Serrver-On-WSL.html)
 - [linuxserver.io builds of code-server](https://github.com/linuxserver/docker-code-server)
+- [code-server k3s: code-server on a Raspberry Pi 4B Cluster](https://github.com/kcalmond/code-server-k3s)
 
 ## Extending 🚀
 - [OOTB code-server: Simplified HTTPS, Auth, and Deallocation](https://github.com/nullpo-head/Out-of-the-Box-CodeServer)
