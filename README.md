@@ -11,6 +11,7 @@ Projects, resources, and tutorials that take code-server to the next level. Look
 - [Official Helm Chart](https://github.com/cdr/code-server/tree/v3.8.0/ci/helm-chart)
 - [codekube: use code-server to manage your cluster](https://git.nofla.me/k8s-projects/codekube/-/tree/master) (kubectl, kubecfg, etc) 
 - [iPad and Code-Server in Kubernetes Workflow](https://brownfield.dev/post/2020-07-11-ipad-code-server-workflow/)
+- [code-server k3s: code-server on a Raspberry Pi 4B Cluster](https://github.com/kcalmond/code-server-k3s)
 
 ## Extending ➕
 - [OOTB code-server: Simplified HTTPS, Auth, and Deallocation](https://github.com/nullpo-head/Out-of-the-Box-CodeServer)
