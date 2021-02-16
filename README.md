@@ -6,6 +6,8 @@ Projects, resources, and tutorials that take code-server to the next level. Look
 - [code-server on WSL tutorial](https://fearthecowboy.com/tutorial/2020/09/17/Code-Serrver-On-WSL.html)
 - [linuxserver.io builds of code-server](https://github.com/linuxserver/docker-code-server) (good for Raspberry Pi + other ARM)
 - [code-server k3s: code-server on a Raspberry Pi 4B Cluster](https://github.com/kcalmond/code-server-k3s)
+- [code-server-azure](https://github.com/bpmct/code-server-azure): Deploy code-server on Azure App Service
+- [code-server-heroku](https://github.com/bpmct/code-server-heroku): Deploy code-server on Heroku
 
 ## Kubernetes 🚀
 - [Official Helm Chart](https://github.com/cdr/code-server/tree/v3.8.0/ci/helm-chart)
