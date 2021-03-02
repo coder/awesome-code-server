@@ -30,5 +30,6 @@ Projects, resources, and tutorials that take code-server to the next level. Look
 
 ## Images ☁️
 - [expo-code-server (React Native)](https://github.com/bcdr-demos/expo-code-server)
+- [code-server-alpine](https://github.com/martinussuherman/alpine-code-server)
 - [Docker Compose (/ Amazon ECS) example](https://github.com/bcdr-demos/code-server-ecs/)
 - [code-server + kubernetes tools](https://git.nofla.me/k8s-projects/codekube/-/blob/master/Dockerfile)
