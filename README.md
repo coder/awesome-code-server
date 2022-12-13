@@ -21,7 +21,7 @@ Projects, resources, and tutorials that take code-server to the next level. Look
 - [vscode-live: Multi-user pair programming with code-server](https://github.com/coderpair/vscode-live)
 - [home-assistant.io + code-server](https://github.com/hassio-addons/addon-vscode)
 - [Pomerium Proxy/SSO + code-server](https://www.pomerium.io/guides/vs-code-server.html#background)
-
+- [🧙 Arkanum](https://gitea.ocram85.com/CodeServer/arkanum) *[(Github mirror)](https://github.com/OCram85/arkanum)* - Code-Server container optimized for daily use.
 
 ## Community 💬
 - Github: [Issues](https://github.com/cdr/code-server/issues) / [Discussions](https://github.com/cdr/code-server/discussions)
